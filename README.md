@@ -1,129 +1,105 @@
-### 👋 Hi, I'm **T V V Sai Karthik**  
-**AI Engineer · GenAI Pipeline Developer · Full-Stack & Cloud Engineer**
-
-I build intelligent systems across **LLMs, multimodal ML, RAG pipelines, distributed microservices, and scalable data workflows**.  
-My work spans **research (IISc, DRDO)**, **industry engineering (Haply Inc.)**, and **systems projects** deployed using **Docker, Kubernetes, AWS, and RabbitMQ**.
-
----
-
-## 🔥 What I Do
-### **GenAI & LLM Engineering**
-- Build **RAG pipelines**, vector indexes, embedding flows, and retrieval systems  
-- Develop **fine-tuning data pipelines** for LLMs & multimodal models  
-- Engineer **agentic systems** using OpenRouter & automation frameworks  
-- Work with **transformers, multimodal fusion models, GRU/LSTM, and GNNs**
-
-### **Data Engineering & Big Data**
-- Design and optimize **data pipelines** for ML workflows  
-- Strong with **Python (Pandas, NumPy), SQL, ETL, data validation**  
-- Experience building large-scale transformation pipelines (PySpark-style)  
-- Knowledge of **workflow orchestration (Airflow concepts)**
-
-### **Cloud & DevOps**
-- Experience with **AWS (S3, EC2, Lambda, serverless systems)**  
-- Containerization using **Docker & Kubernetes**  
-- Microservices with queues (**RabbitMQ**), APIs, and scalable deployments
-
-### **Full-Stack Engineering**
-- Build production systems in **Node.js, Express.js, React.js, Next.js**  
-- Real-time applications using **WebSockets, Socket.io, GraphQL**
-
----
-
-## 🧠 Featured Skills
-**Languages:** Python, C++, JavaScript, TypeScript  
-**AI/ML:** Transformers, Multimodal ML, NLP, RAG, LLM Ops, PyTorch, TensorFlow  
-**Data Engineering:** Pandas, NumPy, SQL, Data Cleaning, ETL, Workflow Ops  
-**Cloud & DevOps:** AWS, Docker, Kubernetes, Git, CI/CD  
-**Big Data Concepts:** PySpark-style processing, distributed job design  
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**Message Queues:** RabbitMQ  
-**Web:** Node.js, Express.js, React.js, Next.js, REST, GraphQL
-
----
-
-## 🚀 Highlight Projects (Aligned With GenAI/Data Engineering Roles)
-
-### 🔹 **Multimodal Boiling Regime Classification (IISc Research)**  
-*EfficientNet + ResNet18 + Transformer fusion pipeline*  
-- Built full multimodal ETL pipeline for **video, audio, sensor** data  
-- Designed hybrid ResNet–Transformer achieving **90% accuracy**  
-- Worked with **large structured + unstructured datasets**  
-:contentReference[oaicite:0]{index=0}
-
----
-
-### 🔹 **Agentic Desktop Automation OS (LLM-Driven)**  
-*Full agentic OS using OpenRouter + Python*  
-- Creates RAG-like internal memory & planning  
-- Executes workflows across **25+ desktop apps**  
-- Strong demonstration of **GenAI Ops, prompting, and LLM integration**
-
----
-
-### 🔹 **Reviews-Based Text Analytics & Insight Generation**  
-*End-to-end NLP + Data Engineering Pipeline*  
-- Processed **100K+ reviews**, cleaned & transformed datasets  
-- Used **LDA, BERTopic, ABSA** for insight generation  
-- Created **Power BI dashboards** for real-time analytics  
-:contentReference[oaicite:1]{index=1}
-
----
-
-### 🔹 **Microservices E-Commerce System (Cloud + Distributed Systems)**  
-- 6 microservices running on **Docker + Kubernetes**  
-- OAuth 2.0, RabbitMQ message bus  
-- Production-grade system design aligned with **real data pipelines**  
-:contentReference[oaicite:2]{index=2}
-
----
-
-### 🔹 **Real-Time Chat App (Haply Internship)**  
-- 6ms real-time messaging with **WebSockets + GraphQL**  
-- Production-level debugging, AWS serverless infra  
-- Includes automated tests (Jest, Supertest)  
-:contentReference[oaicite:3]{index=3}
-
----
-
-## 📚 Research & Publications
-- **Peer-reviewed DRDO Collaboration (ICMLDE 2025)**  
-  Graph-based ML pipeline with LSTMs + GNNs achieving strong R² score  
-  (Scopus-indexed Elsevier Proceedings)  
-:contentReference[oaicite:4]{index=4}
-
-- **IISc Multimodal ML Research Intern (2025)**  
-  Built ML pipelines for multimodal fusion at scale  
-:contentReference[oaicite:5]{index=5}
-
----
-
-## 🏆 Achievements
-- **Top 7 Finalist – Pine Labs GenAI Hackathon**  
-  Built a multi-agent FinTech SaaS with RAG-driven API integration  
-
-- **Official IIIT Dharwad Website Developer**  
-  Contributed to core development & deployment using Next.js  
-:contentReference[oaicite:6]{index=6}
-
-- **Competitive Coding:** Top 24–28% on LeetCode  
-:contentReference[oaicite:7]{index=7}
-
----
-
-## 📈 GitHub Stats
+<!-- Banner / Title -->
+<h1 align="center">Hi there, I'm Karthik 👋</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanuku-saikarthik&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuku-saikarthik&layout=compact&theme=tokyonight" height="160"/>
+  <b>AI Engineer · GenAI & Data Pipelines · Full-Stack & Cloud Developer</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Base-India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-GenAI%20Pipelines%20%7C%20RAG%20%7C%20Data%20Engineering-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Research%20Roles-brightgreen?style=flat-square" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-- **GitHub:** https://github.com/tanuku-saikarthik  
-- **LinkedIn:** https://www.linkedin.com/in/sai-karthik-tanuku-3b4547297/  
-- **Email:** tanuku.saikarthik@gmail.com
+###  About Me
+
+- 🎓 **B.Tech CSE @ IIIT Dharwad**  
+- 🔬 **Research intern @ IISc** & co-author with **DRDO** on large-scale ML + GNNs  
+- 🧠 Passionate about **LLMs, RAG systems, multimodal ML, and data platforms**  
+- ⚙️ I love taking ideas from **notebook → pipeline → production-ready systems**
 
 ---
 
-### ⭐ *Always open to opportunities in GenAI, LLM Engineering, Data Engineering, and Cloud-AI Systems.*
+###  Technologies & Tools
+
+####  Core Languages & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,express" />
+</p>
+
+####  Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+####  AI / ML & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/Pandas-%20-blue?logo=pandas&style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-%20-informational?logo=numpy&style=flat-square" />
+  <img src="https://img.shields.io/badge/Transformers-HF-yellow?style=flat-square" />
+</p>
+
+####  Databases & Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,rabbitmq" />
+</p>
+
+####  Cloud, DevOps & Big Data
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git" />
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-%20PySpark%20Concepts-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Workflow-Airflow%20Basics-lightgrey?style=flat-square" />
+</p>
+
+---
+
+###  Highlights
+
+-  Built **multimodal ML pipelines** (video + audio + sensor) for **boiling regime classification** at IISc.  
+-  Co-authored a **DRDO-backed paper** on a hybrid **GNN + sequence model** for quasar redshift prediction (ICMLDE 2025).  
+-  Created **agentic desktop automation OS** using LLMs & OpenRouter for cross-app workflows.  
+-  Designed a **microservices e-commerce platform** (OAuth2, RabbitMQ, Docker, Kubernetes).  
+-  Developed **real-time chat systems** (WebSockets, GraphQL, AWS serverless).  
+-  **Top 7** in Pine Labs GenAI Hackathon with a multi-agent FinTech SaaS prototype.
+
+---
+
+###  What I’m Interested In
+
+- Building **GenAI / LLM data pipelines** (ETL → vector stores → RAG).  
+- **Data engineering** for large, messy, multimodal datasets.  
+- Using **Spark / PySpark**, Airflow-style orchestration, and AWS data stack (S3, Redshift, Glue, Athena).  
+- Turning research ideas into **reliable, monitored, production-ready systems**.
+
+---
+
+### 🤝 Let’s Connect
+
+If you’re:
+
+- hiring for **GenAI / Data Engineering / LLM** roles,  
+- working on **RAG platforms**, vector DBs, or **ML infra**, or  
+- just want to geek out about **pipelines, agents, and distributed systems** —
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sai-karthik-tanuku-3b4547297/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tanuku.saikarthik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/tanuku-saikarthik">
+    <img src="https://img.shields.io/badge/GitHub-@tanuku--saikarthik-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+###  GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanuku-saikarthik&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuku-saikarthik&layout=compact&theme=tokyonight" height="160" />
+</p>
